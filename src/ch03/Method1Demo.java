@@ -9,7 +9,7 @@ public class Method1Demo {
         System.out.println("1부터 10까지의 합은? " +  m.sum(0, 10));
         System.out.println("1부터 100까지의 합은? " +  m.sum(0, 100));
         System.out.println("1부터 1000까지의 합은? " +  m.sum(0, 1000));
-
+       
         
     }
     
