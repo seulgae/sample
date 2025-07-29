@@ -17,7 +17,7 @@ public class ForDemo {
 		
 //		for (int i = 1; i <10; i++) {
 //			System.out.printf("%d * %d = %d\n", 2,  i, i * 2);
-//		}
+//		} 
 		
 		Scanner in = new Scanner(System.in);
 		System.out.print("값을 입력해주세요 : ");
