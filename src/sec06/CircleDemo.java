@@ -20,7 +20,7 @@ class Circle {
 	String color;
 	
 	public Circle() {
-		
+		this(1.0, "노랑"); // 기본 생성자 초기화
 	}
 	
 	public Circle(double radius) {
