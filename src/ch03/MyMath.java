@@ -18,7 +18,11 @@ public class MyMath {
 	}
 	
 	long div(long a, long b) {
+		if (b != 0) {
+			return a / b;
+		}else {
+			return 0;
+		}
 		
-		return a / b;
 	}
 }

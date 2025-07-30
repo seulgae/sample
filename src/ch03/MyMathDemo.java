@@ -8,7 +8,7 @@ public class MyMathDemo {
 		System.out.println(math.add(1, 1));
 		System.out.println(math.sub(5, 1));
 		System.out.println(math.mult(5, 5));
-		System.out.println(math.div(18, 2));
+		System.out.println(math.div(18, 0));
 	
 	}
 	
