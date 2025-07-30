@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class DiceDemo {
 	public static void main(String[] args) {
 		Dice dice = new Dice();
-//		dice.roll();
 		Scanner in = new Scanner(System.in);
 		
 		System.out.print("주사위를 몇 번 반복할래요? : ");
