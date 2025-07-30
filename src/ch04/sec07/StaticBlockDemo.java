@@ -1,4 +1,4 @@
-package sec07;
+package ch04.sec07;
 
 public class StaticBlockDemo {
 	// 정적 변수(static, 클래스)변수

@@ -1,8 +1,6 @@
-package sec07;
+package ch04.sec07;
 
 import java.util.Scanner;
-
-//import java.util.Scanner;
 
 public class DiceDemo {
 	public static void main(String[] args) {

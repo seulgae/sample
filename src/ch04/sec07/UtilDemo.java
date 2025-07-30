@@ -1,4 +1,4 @@
-package sec07;
+package ch04.sec07;
 
 public class UtilDemo {
 	public static void main(String[] args) {

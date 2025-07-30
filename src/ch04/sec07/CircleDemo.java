@@ -1,4 +1,4 @@
-package sec07;
+package ch04.sec07;
 
 public class CircleDemo {
 	public static void main(String[] args) {
