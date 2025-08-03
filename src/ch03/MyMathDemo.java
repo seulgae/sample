@@ -3,13 +3,11 @@ package ch03;
 public class MyMathDemo {
 
 	public static void main(String[] args) {
-		MyMath math = new MyMath();
-		
-		System.out.println(math.add(1, 1));
-		System.out.println(math.sub(5, 1));
-		System.out.println(math.mult(5, 5));
-		System.out.println(math.div(18, 0));
-		
+		MyMath math = new MyMath(); // 계산기 객체 생성
+		System.out.println(math.add(2, 3));
+		System.out.println(math.sub(2, 3));
+		System.out.println(math.mult(2, 3));
+		System.out.println(math.div(2, 3));
 	}
-	
+
 }
