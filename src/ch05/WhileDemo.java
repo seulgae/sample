@@ -1,6 +1,6 @@
 package ch05;
 
-public class whileDemo {
+public class WhileDemo {
 
 	public static void main(String[] args) {
 		int i = 0;
